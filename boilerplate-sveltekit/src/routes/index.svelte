@@ -7,8 +7,7 @@
         <div>
           <a
             class="text-2xl font-bold text-gray-800 dark:text-white lg:text-3xl hover:text-gray-700 dark:hover:text-gray-300"
-            href="#"><img alt='Kasna' src='great-success.svg'>
-          >
+            href="#"><img width='120px' alt='Kasna' src='great-success.svg'>
         </div>
 
         <!-- Mobile menu button -->
@@ -137,6 +136,10 @@
     </div>
   </div>
 </nav>
+
+<h1 class="mt-4 text-xl text-center font-semibold text-gray-800 dark:text-white">
+  Boilerplate Frontend - Sveltekit with TailwindCSS
+</h1>
 
 <section class="bg-white dark:bg-gray-800">
   <div class="container px-6 py-8 mx-auto">
