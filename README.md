@@ -1,9 +1,10 @@
 Available Boilerplates
 ------------------
 
-|Framework|Deploy|
-|---|---|
-|[Sapper](boilerplate-sapper)|[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/nabdtran/boilerplate-sapper.git&dir=boilerplate-sapper)|
-|[VueJS](boilerplate-vuejs)|[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/nabdtran/boilerplate-sapper.git&dir=boilerplate-vuejs)|
-|[java-quarkus](java-quarkus)|[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/nabdtran/boilerplate-sapper.git&dir=boilerplate-sapper)|
+|Framework|Description|Deploy|
+|---|---|---|
+|[Sapper](boilerplate-sapper)|Sapper Sample|[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/nabdtran/boilerplates-cloudrun.git&dir=boilerplate-sapper)|
+|[VueJS](boilerplate-sveltekit)|Sveltekit with TailwindCSS|[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/nabdtran/boilerplates-cloudrun.git&dir=boilerplate-sveltekit)|
+|[VueJS](boilerplate-vuejs)|VueJS|[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/nabdtran/boilerplates-cloudrun.git&dir=boilerplate-vuejs)|
+|[NextJS](boilerplate-nextjs)|NextJS Sample|[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/nabdtran/boilerplates-cloudrun.git&dir=boilerplate-NextJS)|
 
