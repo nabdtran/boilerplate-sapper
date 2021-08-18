@@ -1,4 +1,6 @@
 import Head from 'next/head'
+import Image from 'next/image'
+import kasnaLogo from '../public/great-success.svg'
 
 export default function Home() {
   return (
@@ -7,7 +9,7 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <img width='400px' alt='Kasna' src='great-success.svg'></img>
+      <Image width='400px' src={kasnaLogo} alt='Kasna' />
       <h1 className="text-4xl font-regular">
         Boilerplate Frontend - Next.js
 
